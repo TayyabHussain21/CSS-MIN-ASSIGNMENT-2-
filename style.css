@@ -1,0 +1,16 @@
+body {
+  background-color: blanchedalmond;
+}
+h1 {
+  text-transform: capitalize;
+  color: rgb(150, 0, 0);
+  background-color: pink;
+}
+h3 {
+  text-transform: capitalize;
+  color: gray;
+}
+h4 {
+  color: rgb(194, 194, 46);
+  background-color: white;
+}
